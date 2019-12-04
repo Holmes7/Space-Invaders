@@ -121,7 +121,7 @@ while running:
 
 		alien(alienX[i], alienY[i], i)
 
-		if alienY[i] > 200:
+		if alienY[i] > 350:
 			game_over()
 			break
 
